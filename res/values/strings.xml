@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">DrawSample002</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_draw_sample002">DrawSample002Activity</string>
+
+</resources>
